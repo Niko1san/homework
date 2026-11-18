@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: normal;
+    font-weight: 300;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}   
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+h3 {
+    margin: 0;
+    color: beige;
+    text-shadow: 0.2rem 0.2rem 0.2rem black;
+}
